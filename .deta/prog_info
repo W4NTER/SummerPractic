@@ -1,0 +1,1 @@
+{"id":"7c13de2b-0e89-4457-b7d0-0f22df98c2b6","space":26808,"runtime":"python3.9","name":"sql_app_pracric","path":"npfild","project":"c010s128","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","sqlalchemy"],"envs":null,"public":true,"log_level":"off","cron":""}
